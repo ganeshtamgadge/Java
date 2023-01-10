@@ -13,8 +13,7 @@ public class prime
 		}
 		catch(Exception e)
 		{ }
-
-		// ganesh made a comment
+		// for changes
 		for(int i=2;i<=x/2;i++)
 		{		
 			if(x%i==0)
