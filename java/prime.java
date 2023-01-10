@@ -12,8 +12,9 @@ public class prime
 			x=Integer.parseInt(dis.readLine());
 		}
 		catch(Exception e)
-		{}
-		
+		{ }
+
+		// ganesh made a comment
 		for(int i=2;i<=x/2;i++)
 		{		
 			if(x%i==0)
