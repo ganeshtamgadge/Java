@@ -15,7 +15,6 @@ public class prime
 		{ }
 
 		// ganesh made a comment
-		// deva made a comment
 		for(int i=2;i<=x/2;i++)
 		{		
 			if(x%i==0)
